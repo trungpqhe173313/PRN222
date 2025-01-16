@@ -1,0 +1,14 @@
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\bin\Debug\net8.0\WebRequestResponse.exe
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\bin\Debug\net8.0\WebRequestResponse.deps.json
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\bin\Debug\net8.0\WebRequestResponse.runtimeconfig.json
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\bin\Debug\net8.0\WebRequestResponse.dll
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\bin\Debug\net8.0\WebRequestResponse.pdb
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.AssemblyInfoInputs.cache
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.AssemblyInfo.cs
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.csproj.CoreCompileInputs.cache
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.dll
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\refint\WebRequestResponse.dll
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.pdb
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\WebRequestResponse.genruntimeconfig.cache
+D:\Ky7\PRN222\CodeSilde\WebRequestResponse\WebRequestResponse\obj\Debug\net8.0\ref\WebRequestResponse.dll

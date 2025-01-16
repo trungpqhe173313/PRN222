@@ -1,0 +1,14 @@
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\bin\Debug\net8.0\URIDemo.exe
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\bin\Debug\net8.0\URIDemo.deps.json
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\bin\Debug\net8.0\URIDemo.runtimeconfig.json
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\bin\Debug\net8.0\URIDemo.dll
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\bin\Debug\net8.0\URIDemo.pdb
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.AssemblyInfoInputs.cache
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.AssemblyInfo.cs
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.csproj.CoreCompileInputs.cache
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.dll
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\refint\URIDemo.dll
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.pdb
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\URIDemo.genruntimeconfig.cache
+D:\Ky7\PRN222\CodeSilde\URIDemo\URIDemo\obj\Debug\net8.0\ref\URIDemo.dll

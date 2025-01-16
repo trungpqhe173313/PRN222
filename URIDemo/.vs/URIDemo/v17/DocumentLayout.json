@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky7\\PRN222\\CodeSilde\\URIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD4C126-03BE-40C4-A2BA-F3A2320DD543}|URIDemo\\URIDemo.csproj|d:\\ky7\\prn222\\codesilde\\uridemo\\uridemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD4C126-03BE-40C4-A2BA-F3A2320DD543}|URIDemo\\URIDemo.csproj|solutionrelative:uridemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\PRN222\\CodeSilde\\URIDemo\\URIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "URIDemo\\Program.cs",
+              "ToolTip": "D:\\Ky7\\PRN222\\CodeSilde\\URIDemo\\URIDemo\\Program.cs",
+              "RelativeToolTip": "URIDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T06:34:41.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
