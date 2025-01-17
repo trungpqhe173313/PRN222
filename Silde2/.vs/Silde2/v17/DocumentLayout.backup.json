@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F327202-A7FC-4386-98B4-B11351480B9F}|Silde2\\Silde2.csproj|d:\\ky7\\githubprn\\prn222\\silde2\\silde2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F327202-A7FC-4386-98B4-B11351480B9F}|Silde2\\Silde2.csproj|solutionrelative:silde2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Silde2\\Program.cs",
+              "RelativeDocumentMoniker": "Silde2\\Program.cs",
+              "ToolTip": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Silde2\\Program.cs",
+              "RelativeToolTip": "Silde2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:35:45.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

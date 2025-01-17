@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67E4E47-7144-4B81-B262-8AF574973FC3}|Demo3\\Demo3.csproj|d:\\ky7\\githubprn\\prn222\\silde2\\demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67E4E47-7144-4B81-B262-8AF574973FC3}|Demo3\\Demo3.csproj|solutionrelative:demo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC74C2D3-CEE8-4578-8C41-59BC484890CC}|Demo4\\Demo4.csproj|d:\\ky7\\githubprn\\prn222\\silde2\\demo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC74C2D3-CEE8-4578-8C41-59BC484890CC}|Demo4\\Demo4.csproj|solutionrelative:demo4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C315500-5910-4DC6-B6F9-9B6DF455942C}|Demo2\\Demo2.csproj|d:\\ky7\\githubprn\\prn222\\silde2\\demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C315500-5910-4DC6-B6F9-9B6DF455942C}|Demo2\\Demo2.csproj|solutionrelative:demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F327202-A7FC-4386-98B4-B11351480B9F}|Silde2\\Silde2.csproj|d:\\ky7\\githubprn\\prn222\\silde2\\silde2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F327202-A7FC-4386-98B4-B11351480B9F}|Silde2\\Silde2.csproj|solutionrelative:silde2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Demo4\\Program.cs",
+              "RelativeDocumentMoniker": "Demo4\\Program.cs",
+              "ToolTip": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Demo4\\Program.cs",
+              "RelativeToolTip": "Demo4\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:37:11.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Demo3\\Program.cs",
+              "RelativeDocumentMoniker": "Demo3\\Program.cs",
+              "ToolTip": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Demo3\\Program.cs",
+              "RelativeToolTip": "Demo3\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:36:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Demo2\\Program.cs",
+              "RelativeDocumentMoniker": "Demo2\\Program.cs",
+              "ToolTip": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Demo2\\Program.cs",
+              "RelativeToolTip": "Demo2\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:36:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Silde2\\Program.cs",
+              "RelativeDocumentMoniker": "Silde2\\Program.cs",
+              "ToolTip": "D:\\Ky7\\GithubPRN\\PRN222\\Silde2\\Silde2\\Program.cs",
+              "RelativeToolTip": "Silde2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:35:45.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
