@@ -1,0 +1,15 @@
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\bin\Debug\net8.0\Chap2_Asynchronous01.exe
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\bin\Debug\net8.0\Chap2_Asynchronous01.deps.json
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\bin\Debug\net8.0\Chap2_Asynchronous01.runtimeconfig.json
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\bin\Debug\net8.0\Chap2_Asynchronous01.dll
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\bin\Debug\net8.0\Chap2_Asynchronous01.pdb
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.AssemblyInfoInputs.cache
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.AssemblyInfo.cs
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.csproj.CoreCompileInputs.cache
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.sourcelink.json
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.dll
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\refint\Chap2_Asynchronous01.dll
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.pdb
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\Chap2_Asynchronous01.genruntimeconfig.cache
+D:\Ky7\GithubPRN\PRN222\Chap2_Asynchronous01\Chap2_Asynchronous01\obj\Debug\net8.0\ref\Chap2_Asynchronous01.dll

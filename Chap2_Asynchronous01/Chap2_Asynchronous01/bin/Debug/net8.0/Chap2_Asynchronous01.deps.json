@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chap2_Asynchronous01/1.0.0": {
+        "runtime": {
+          "Chap2_Asynchronous01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chap2_Asynchronous01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

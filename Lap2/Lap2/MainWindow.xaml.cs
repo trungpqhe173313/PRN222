@@ -36,7 +36,10 @@ namespace Lap2
         private async void btnViewHTML_Click(object sender, RoutedEventArgs e)
         {
             string url = txtURL.Text.Trim();
-
+            if (!Uri.IsWellFormedUriString(url, UriKind.Absolute))
+            {
+                MessageBox.Show("URL wrong .");
+            }
             if (string.IsNullOrEmpty(url))
             {
                 MessageBox.Show("Please enter a valid URL.", "Error", MessageBoxButton.OK, MessageBoxImage.Warning);

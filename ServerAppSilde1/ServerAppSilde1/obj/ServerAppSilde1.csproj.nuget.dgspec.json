@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ky7\\PRN222\\CodeSilde\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj": {}
+    "D:\\Ky7\\GithubPRN\\PRN222\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj": {}
   },
   "projects": {
-    "D:\\Ky7\\PRN222\\CodeSilde\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj": {
+    "D:\\Ky7\\GithubPRN\\PRN222\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ky7\\PRN222\\CodeSilde\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj",
+        "projectUniqueName": "D:\\Ky7\\GithubPRN\\PRN222\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj",
         "projectName": "ServerAppSilde1",
-        "projectPath": "D:\\Ky7\\PRN222\\CodeSilde\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj",
+        "projectPath": "D:\\Ky7\\GithubPRN\\PRN222\\ServerAppSilde1\\ServerAppSilde1\\ServerAppSilde1.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Ky7\\PRN222\\CodeSilde\\ServerAppSilde1\\ServerAppSilde1\\obj\\",
+        "outputPath": "D:\\Ky7\\GithubPRN\\PRN222\\ServerAppSilde1\\ServerAppSilde1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

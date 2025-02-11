@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky7\\GithubPRN\\PRN222\\Chap2-PLINQ1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00A5C21-45F5-416F-915F-1DFD3C7757B3}|Chap2-PLINQ1\\Chap2-PLINQ1.csproj|d:\\ky7\\githubprn\\prn222\\chap2-plinq1\\chap2-plinq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00A5C21-45F5-416F-915F-1DFD3C7757B3}|Chap2-PLINQ1\\Chap2-PLINQ1.csproj|solutionrelative:chap2-plinq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky7\\GithubPRN\\PRN222\\Chap2-PLINQ1\\Chap2-PLINQ1\\Program.cs",
+              "RelativeDocumentMoniker": "Chap2-PLINQ1\\Program.cs",
+              "ToolTip": "D:\\Ky7\\GithubPRN\\PRN222\\Chap2-PLINQ1\\Chap2-PLINQ1\\Program.cs",
+              "RelativeToolTip": "Chap2-PLINQ1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T08:48:52.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
