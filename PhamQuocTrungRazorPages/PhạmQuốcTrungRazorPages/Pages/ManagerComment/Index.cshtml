@@ -1,0 +1,26 @@
+﻿@page "/ManagerComment"
+@model PhạmQuốcTrungRazorPages.Pages.ManagerComment.IndexModel
+<h2>Comments for Article: @Model.NewsArticleId</h2>
+
+<a asp-page="./CreateCmt" asp-route-articleId="@Model.NewsArticleId">Add Comment</a>
+
+@if (Model.Comments.Any())
+{
+    <ul>
+        @foreach (var comment in Model.Comments)
+        {
+            <li>
+                @comment.Content - @comment.UserName (@comment.CreatedDate)
+                @if (comment.UserId != "user01") // Check if the comment was made by the current user
+                {
+                    //<a asp-page="./Edit" asp-route-commentId="@comment.CommentId" asp-route-articleId="@comment.NewsArticleId">Edit</a>
+                    //<a asp-page="./Delete" asp-route-commentId = "@comment.CommentId" asp-route-articleId = "@comment.NewsArticleId" > Delete </a>
+               }
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>No comments available for this article.</p>
+}

@@ -1,0 +1,12 @@
+﻿@page
+@model PhạmQuốcTrungRazorPages.Pages.ManagerComment.DeleteModel
+<h2>Delete Comment</h2>
+
+<p>Are you sure you want to delete the comment?</p>
+
+<p>@Model.Comment.Content</p>
+
+<form method="post">
+    <button type="submit">Delete</button>
+    <a href="@Url.Page("./Comments", new { articleId = Model.NewsArticleId })">Cancel</a>
+</form>

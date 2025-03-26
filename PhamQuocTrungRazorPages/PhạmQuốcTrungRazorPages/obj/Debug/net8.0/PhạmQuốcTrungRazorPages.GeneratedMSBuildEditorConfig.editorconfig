@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PhạmQuốcTrungRazorPages
+build_property.RootNamespace = PhạmQuốcTrungRazorPages
+build_property.ProjectDir = D:\Ky7\PRN222\CodeSilde\PhạmQuốcTrungRazorPages\PhạmQuốcTrungRazorPages\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Ky7\PRN222\CodeSilde\PhạmQuốcTrungRazorPages\PhạmQuốcTrungRazorPages
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/AccountPage/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2VcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/ManagerComment/CreateCmt.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlckNvbW1lbnRcQ3JlYXRlQ210LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/ManagerComment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlckNvbW1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/ManagerComment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlckNvbW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/NewsArticlePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVQYWdlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/NewsArticlePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVQYWdlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/NewsArticlePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVQYWdlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/NewsArticlePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVQYWdlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/NewsArticlePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c0FydGljbGVQYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/Unauthorized.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVW5hdXRob3JpemVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Ky7/PRN222/CodeSilde/PhạmQuốcTrungRazorPages/PhạmQuốcTrungRazorPages/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0i0kc01h3m

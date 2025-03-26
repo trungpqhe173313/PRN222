@@ -1,0 +1,58 @@
+{
+  "1": [
+    {
+      "CommentId": "80a0d43e-c971-492b-b2ef-4197a6656345",
+      "NewsArticleId": "1",
+      "UserId": "3",
+      "UserName": "Isabella David",
+      "Content": "kkkkk",
+      "CreatedDate": "2025-03-21T10:03:11.4257615+07:00",
+      "IsEdited": false
+    },
+    {
+      "CommentId": "4ba38f43-82b1-4df8-8e29-af6997074070",
+      "NewsArticleId": "1",
+      "UserId": "3",
+      "UserName": "Isabella David",
+      "Content": "llllll",
+      "CreatedDate": "2025-03-21T10:48:26.7613921+07:00",
+      "IsEdited": false
+    },
+    {
+      "CommentId": "1e4969d1-0d84-42e9-aac4-b247b89438c4",
+      "NewsArticleId": "1",
+      "UserId": "3",
+      "UserName": "Isabella David",
+      "Content": "sdfsfds",
+      "CreatedDate": "2025-03-21T10:56:23.6776805+07:00",
+      "IsEdited": false
+    },
+    {
+      "CommentId": "663ce389-0af3-48da-8fa9-0fe79858931a",
+      "NewsArticleId": "1",
+      "UserId": "3",
+      "UserName": "Isabella David",
+      "Content": "kkkkpppp",
+      "CreatedDate": "2025-03-21T10:58:26.4628149+07:00",
+      "IsEdited": false
+    },
+    {
+      "CommentId": "5826ba1d-503d-4660-8f79-8c0726935bb8",
+      "NewsArticleId": "1",
+      "UserId": "3",
+      "UserName": "Isabella David",
+      "Content": "aasdasdadsadsa",
+      "CreatedDate": "2025-03-21T12:59:51.5397733+07:00",
+      "IsEdited": false
+    },
+    {
+      "CommentId": "e668565e-53ca-41a7-b314-1d54543aba18",
+      "NewsArticleId": "1",
+      "UserId": "3",
+      "UserName": "Isabella David",
+      "Content": "gggggg",
+      "CreatedDate": "2025-03-21T13:57:23.7858143+07:00",
+      "IsEdited": false
+    }
+  ]
+}
